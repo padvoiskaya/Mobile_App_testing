@@ -16,5 +16,5 @@
 На основании чек-листа в QASE было создано 15 тест-кейсов, в ходе тестового прогона выявлено 6 дефектов, которые зафиксированы в YouTrack. По результатам тестирования создан отчет по результатам тестирования.
 
 [Отчет о дефекте](https://docs.google.com/spreadsheets/d/1fYZWL1ZVD_Y__0nL2tNGB8TebC8ijrwIvXlC8uuibgw/edit?usp=sharing) <br>
-[Тестовый прогон в PDF](https://github.com/padvoiskaya/Mobile_App_testing#:~:text=Mob_testruns_Padvoiskaya.pdf)
-[Отчет по результатам тестирования в PDF]()
+[Тестовый прогон в PDF](https://github.com/padvoiskaya/Mobile_App_testing#:~:text=Mob_testruns_Padvoiskaya.pdf) <br>
+[Отчет по результатам тестирования в PDF](https://github.com/padvoiskaya/Mobile_App_testing/blob/main/Test_Summary_Report_Padvoiskaya.pdf) <br>
